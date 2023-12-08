@@ -1,2 +1,0 @@
-generate_projects:
-  include: "terraform/4-projects/cicd/common/**"
